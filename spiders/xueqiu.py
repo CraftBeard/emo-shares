@@ -1,2 +1,7 @@
-import feedparser
+class stock:
+    def __init__(self, code):
+        self.code = code
 
+    def get_post():
+
+        return
