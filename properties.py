@@ -30,3 +30,11 @@ XUEQIU_USERS = [
 STOCKS = [
     {'code':'SH600519','name':'贵州茅台'}
 ]
+
+DBCONFIG = {
+    'user':'admin',
+    'pass':'19921201',
+    'host':'localhost',
+    'port':'3306',
+    'db':'stock'
+}
